@@ -76,7 +76,7 @@ python faceswap.py gui
 
 
 
-## Video's
+## Videos
 A video is just a series of pictures in the form of frames. Therefore you can gather the raw images from them for your dataset or combine your results into a video.
 
 ## EFFMPEG
